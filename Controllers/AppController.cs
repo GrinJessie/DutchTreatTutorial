@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using System;
+using Microsoft.AspNetCore.Mvc;
 
 namespace DutchTreat.Controllers
 {
@@ -6,6 +7,7 @@ namespace DutchTreat.Controllers
     {
         public IActionResult Index()
         {
+            throw new InvalidOperationException();
             return View();
         }
     }
