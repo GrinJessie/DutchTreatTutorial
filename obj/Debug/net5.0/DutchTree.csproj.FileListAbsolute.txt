@@ -28,3 +28,15 @@ C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5
 C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\DutchTree.RazorCoreGenerate.cache
 C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\Razor\Views\App\Index.cshtml.g.cs
 C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\DutchTree.RazorTargetAssemblyInfo.cs
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\bin\Debug\net5.0\Debug\net5.0\appsettings.Development.json
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\bin\Debug\net5.0\Debug\net5.0\appsettings.json
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\bin\Debug\net5.0\Debug\net5.0\DutchTree.deps.json
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\bin\Debug\net5.0\Debug\net5.0\DutchTree.runtimeconfig.dev.json
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\bin\Debug\net5.0\Debug\net5.0\DutchTree.runtimeconfig.json
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\bin\Debug\net5.0\package-lock.json
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\bin\Debug\net5.0\package.json
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\bin\Debug\net5.0\DutchTree.Views.dll
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\bin\Debug\net5.0\DutchTree.Views.pdb
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\bin\Debug\net5.0\OdeToCode.UseNodeModules.dll
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\DutchTree.Views.pdb
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\DutchTree.csproj.CopyComplete

@@ -23,7 +23,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "DutchTree/1.0.0": {
+      "DutchTreat/1.0.0": {
         "dependencies": {
           "OdeToCode.UseNodeModules": "3.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",
@@ -311,10 +311,10 @@
           "WindowsBase": "4.0.0.0"
         },
         "runtime": {
-          "DutchTree.dll": {}
+          "DutchTreat.dll": {}
         },
         "compile": {
-          "DutchTree.dll": {}
+          "DutchTreat.dll": {}
         }
       },
       "OdeToCode.UseNodeModules/3.0.0": {
@@ -2029,7 +2029,7 @@
     }
   },
   "libraries": {
-    "DutchTree/1.0.0": {
+    "DutchTreat/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -22,7 +22,8 @@ namespace DutchTree
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
             app.UseDefaultFiles();
-            app.UseStaticFiles(); 
+            app.UseStaticFiles();
+            app.UseNodeModules();
         }
     }
 }

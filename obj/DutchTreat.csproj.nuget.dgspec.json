@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lijing_wang\\Documents\\Github projects\\Tutorial\\DutchTree\\DutchTree.csproj": {}
+    "C:\\Users\\lijing_wang\\Documents\\Github projects\\Tutorial\\DutchTree\\DutchTreat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lijing_wang\\Documents\\Github projects\\Tutorial\\DutchTree\\DutchTree.csproj": {
+    "C:\\Users\\lijing_wang\\Documents\\Github projects\\Tutorial\\DutchTree\\DutchTreat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lijing_wang\\Documents\\Github projects\\Tutorial\\DutchTree\\DutchTree.csproj",
-        "projectName": "DutchTree",
-        "projectPath": "C:\\Users\\lijing_wang\\Documents\\Github projects\\Tutorial\\DutchTree\\DutchTree.csproj",
+        "projectUniqueName": "C:\\Users\\lijing_wang\\Documents\\Github projects\\Tutorial\\DutchTree\\DutchTreat.csproj",
+        "projectName": "DutchTreat",
+        "projectPath": "C:\\Users\\lijing_wang\\Documents\\Github projects\\Tutorial\\DutchTree\\DutchTreat.csproj",
         "packagesPath": "C:\\Users\\lijing_wang\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lijing_wang\\Documents\\Github projects\\Tutorial\\DutchTree\\obj\\",
         "projectStyle": "PackageReference",

@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "TnQuJcJgjfdxB1CEHhxD8UpYMKUZLFJlQ2ozIezYw/UTt7N+F2vigAMHnhxAclRbilYau7t1zos0bYk/Wu/0AQ==",
+  "dgSpecHash": "eTjWB3Az/4K9pPqEewgzYuWsVedfNIiRTICD0Ttw54wGD7CjBzaOpHMIF+D52b8v1UfJ2BKbVmWrK/94pZCu3Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lijing_wang\\Documents\\Github projects\\Tutorial\\DutchTree\\DutchTree.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\lijing_wang\\Documents\\Github projects\\Tutorial\\DutchTree\\DutchTreat.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lijing_wang\\.nuget\\packages\\odetocode.usenodemodules\\3.0.0\\odetocode.usenodemodules.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
