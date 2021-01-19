@@ -40,3 +40,7 @@ C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5
 C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\Razor\Views\App\Index.cshtml.g.cs
 C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\DutchTreat.RazorTargetAssemblyInfo.cs
 C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\DutchTreat.Views.pdb
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\Razor\Views\App\About.cshtml.g.cs
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\Razor\Views\App\Contact.cshtml.g.cs

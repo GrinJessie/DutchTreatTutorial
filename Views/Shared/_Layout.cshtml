@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Dutch Treat:@ViewBag.Tittle</title>
+    <link href="css/site.css" rel="stylesheet" />
+</head>
+<body>
+<header>
+    <h1>Welcome to Dutch Treat</h1>
+    <menu>
+        <ul>
+            <li> <a href="/">Home</a> </li>
+            <li> <a href="/App/About">About</a> </li>
+            <li> <a href="/App/Contact">Contact</a> </li>
+        </ul>
+    </menu>
+</header>
+    <section>
+        <h2>@ViewBag.Tittle</h2>
+    </section>
+    @RenderBody()
+    <footer>Copyright 2019 Dutch Treat LLC</footer>
+
+
+    <script src="/node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="js/index.js"></script>
+</body>
+</html>
