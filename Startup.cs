@@ -13,6 +13,7 @@ namespace DutchTreat
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddRazorPages();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -29,7 +30,10 @@ namespace DutchTreat
             }
             else
             {
-                // TODO: add error page
+                // Not a view that returned by controller
+                // This is a page (razor page)
+                // Need to add the razor page to the services on start up
+                app.UseExceptionHandler("/Error");
             }
 
             // The order of the middleware matters
@@ -56,6 +60,7 @@ namespace DutchTreat
                 configure.MapControllerRoute("Fallback", "{controller}/{action}/{id?}",
                     // If none of them matched, use the default below
                     new { controller = "App", action ="Index" });
+                configure.MapRazorPages();
             });
 
         }
