@@ -10,10 +10,15 @@ namespace DutchTreat.Controllers
             return View();
         }
 
+        [HttpGet]
         public IActionResult Contact()
         {
-            ViewBag.Tittle = "Contact US";
-            throw new Exception("Bye bye..");
+            return View();
+        }
+
+        [HttpPost]
+        public IActionResult Contact(object model)
+        {
             return View();
         }
 
