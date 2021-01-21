@@ -6,8 +6,8 @@
 
 
 
-  var theForm = $("#theForm");
-  theForm.hide();
+    var theForm = $("#contactForm");
+
 
   var button = $("#buyButton");
   button.on("click", function () {

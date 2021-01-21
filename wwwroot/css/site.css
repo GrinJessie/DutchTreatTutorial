@@ -15,14 +15,14 @@ label {
   font-size: 16px;
 }
 
-#theForm {
+#contactForm {
   background-color: #d0d0d0;
 }
 
-  #theForm input[type=submit] {
-    background-color: green;
-    color: white;
-  }
+#contactForm input[type=submit] {
+        background-color: green;
+        color: white;
+    }
 
 ul.product-props {
   font-size: small;
