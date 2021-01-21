@@ -46,3 +46,4 @@ C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5
 C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\Razor\Views\App\Contact.cshtml.g.cs
 C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
 C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\lijing_wang\Documents\Github projects\Tutorial\DutchTree\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
