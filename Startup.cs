@@ -1,3 +1,4 @@
+using DutchTreat.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
@@ -14,6 +15,19 @@ namespace DutchTreat
         {
             services.AddControllersWithViews();
             services.AddRazorPages();
+
+            // Don't have any data on themselves, often just methods that do things
+            // Dependency injection layer to figure out how to construct one of NullMailService
+            // Centralize the service instead of put the instance every where across app
+            // Do all the heavy lifting here for the rest of the app
+            services.AddTransient<IMailService, NullMailService>();
+
+            // Add services that are a little bit more expensive to create, but keep around the length of the connection
+            // The default scope is the length of the request from the client 
+            // services.AddScoped();
+
+            // Services expensive to build, created once and kept for the lifetime of the server being up
+            // services.AddSingleton();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
