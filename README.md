@@ -1,6 +1,6 @@
 # DutchTree
 
-Followed the tutorial on Pluralsight - Building a Web App with ASP.NET core, MVC, Entity Framework Core, Bootstrap, and Angular by Shawn Wildermuth.
+Followed the first 5 modules from the tutorial on Pluralsight - Building a Web App with ASP.NET core, MVC, Entity Framework Core, Bootstrap, and Angular by Shawn Wildermuth.
 
 ## Techologies
 * Git
