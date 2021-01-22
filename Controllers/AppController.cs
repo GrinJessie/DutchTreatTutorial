@@ -20,6 +20,14 @@ namespace DutchTreat.Controllers
         [HttpPost("contact")]
         public IActionResult Contact(ContactViewModel model)
         {
+            if (ModelState.IsValid)
+            {
+                // send email
+            }
+            else
+            {
+                // show errors
+            }
             return View();
         }
 
